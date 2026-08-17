@@ -1,6 +1,6 @@
 # Báo cáo LAB 17 — Data Pipeline Engineering
 
-**Họ tên:** …  **Lớp:** AICB-P2T2  **Ngày:** …
+**Họ tên:** Bùi Thế Huy  **Lớp:** Track2-Day17  **Ngày:** 17/8/2026
 
 ---
 
