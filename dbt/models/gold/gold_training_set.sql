@@ -26,8 +26,10 @@
 
 {{ config(
     materialized     = 'incremental',
+    unique_key       = 'ticket_id',
     on_schema_change = 'fail'
 ) }}
+
 
 select
     ticket_id,
